@@ -39,7 +39,7 @@ quicknotes-system-design/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/quicknotes-system-design.git
+   git clone https://github.com/90hillart/quicknotes-system-design.git
    ```
 
 2. Open the folder:
